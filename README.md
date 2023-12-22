@@ -32,7 +32,7 @@ Things to keep in mind:
 
 -you may want to remove stored images
 
--jpeg isn't lossless, so for any system of value, use a formata which is. jpeg is for vacation pics...
+-jpeg isn't lossless, so for any system of value, use a format which is. jpeg is for vacation pics...
 
 -if in your set up cats tend to go undetected by the YOLO model, try a larger one n, s, m, l, x are the default options in oder. It's also possible to train a model yourself, but you'll probably need several hundreds of samples. There are great instruction videos on this online.
 
