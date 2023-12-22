@@ -36,6 +36,8 @@ Things to keep in mind:
 
 -if in your set up cats tend to go undetected by the YOLO model, try a larger one n, s, m, l, x are the default options in oder. It's also possible to train a model yourself, but you'll probably need several hundreds of samples. There are great instruction videos on this online.
 
+-there are ways of speeding up deep learning models, have a look at https://github.com/Tencent/ncnn
+
 -using docker is optional
 
 -using telegram is optional
