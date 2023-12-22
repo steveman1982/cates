@@ -1,4 +1,5 @@
-Note: I gobbled this together in a hurry, do not take inspiration here for any coding standard.
+Note: This is a quickly gobbled together hobby project, do not take inspiration here for any coding standard.
+hardcoded values instead of configured ones, disregard for loose coupling and cohesion, ... it's all here!
 
 # cates
 Detect cats on a raspberry pi using motion and YOLOV8
@@ -25,8 +26,8 @@ Things to keep in mind:
 -replace any <...> placeholders with your specific situation. Things like image folders, urls, tokens.
 -if you notice a lot of stored images without any cats, play around with the motion threshold, and the number of frames that need to contain motion in the motion.conf file.
 -you may want to remove stored images
--if in your set up cats tend to go undetected by the YOLO model, try a larger one n, s, m, l, x are the defaults. It's also possible to train a model yourself, but you'll probably need several hundreds of samples.
-There are great instruction videos on this online.
+-jpeg isn't lossless, so for any system of value, use a formata which is. jpeg is for vacation pics...
+-if in your set up cats tend to go undetected by the YOLO model, try a larger one n, s, m, l, x are the default options in oder. It's also possible to train a model yourself, but you'll probably need several hundreds of samples. There are great instruction videos on this online.
 -using docker is optional
 -using telegram is optional
 -come to think of it: this is all very much optional
