@@ -22,7 +22,7 @@ And because I want to know when to step into the garden and pet my favourite cat
 
 Things to keep in mind:
 
--if you want to repell cats from your property, please make sure you don't harm the little fellas.
+-if you want to repel cats from your property, please make sure you don't harm the little fellas.
 
 -replace any <...> placeholders with your specific situation. Things like image folders, urls, tokens.
 
